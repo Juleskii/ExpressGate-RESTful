@@ -1,0 +1,21 @@
+# Node.js and npm
+node_modules/
+npm-debug.log
+
+# Build artifacts
+dist/
+
+# IDE and editor files
+.idea/
+.vscode/
+
+# Environment variables
+.env
+
+# Logs
+logs
+*.log
+
+# System files
+.DS_Store
+Thumbs.db
